@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize">24sp</dimen>
+    <dimen name="mar_hor">16dp</dimen>
+    <dimen name="mar_top">60dp</dimen>
+</resources>
